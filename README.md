@@ -14,7 +14,7 @@ Cada ficha estará representada por un archivo que contendra la versión origina
 * Pueden preguntar y sacarse dudas sobre cómo usar github o alguna de las herramientoas propuestas [acá] (https://github.com/alvarmaciel/gamertheory/issues "Issues")
 
 
-### Sintaxys de escritura *FIXME*
+### Sintaxys de escritura
 Consideramos que *MarkDown* es la sintaxys que mejor se ajusta a nuestras necesidades, de esta manera podemos ver bien las versiones web en github
 Algunas páginas para aprender la sintaxys:
 * http://es.wikipedia.org/wiki/Markdown
