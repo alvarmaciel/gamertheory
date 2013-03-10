@@ -16,3 +16,8 @@ Cada ficha estará representada por un archivo que contendra la versión origina
 
 ### Sintaxys de escritura *FIXME*
 Consideramos que *MarkDown* es la sintaxys que mejor se ajusta a nuestras necesidades, de esta manera podemos ver bien las versiones web en github
+Algunas páginas para aprender la sintaxys:
+* http://es.wikipedia.org/wiki/Markdown
+* http://joedicastro.com/pages/markdown.html#mark11
+* http://daringfireball.net/projects/markdown/syntax
+* http://secgen.unmsm.edu.pe/moodle/help.php?file=markdown.html
