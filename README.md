@@ -1,6 +1,6 @@
 ## gamertheory
 
-Esta es una traducción colaborativa del libro de Gamer Theory V2.0 de [McKenzie Wark] (http://www.futureofthebook.org/gamertheory/)
+Esta es una traducción colaborativa del libro de Gamer Theory V2.0 de [McKenzie Wark] (http://www.futureofthebook.org/gamertheory/ "Página del libro")
 
 Este documento es para organizar la traducción y contribuir a un trabajo organizado
 
