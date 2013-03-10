@@ -1,20 +1,13 @@
-gamertheory
-===========
+## gamertheory
 
-Traducción colaborativa del libro de Gamer Theory V2.0 de Mckenzie Wark - [http://www.futureofthebook.org/gamertheory/]
+Esta es una traducción colaborativa del libro de Gamer Theory V2.0 de [[http://www.futureofthebook.org/gamertheory/][McKenzie Wark]]
 
-Este documento es para organizar la traducción. Se fijarán las estructuras y nomenclaturas del trabajo - Cualquier sugerencia es bienvenida -
+Este documento es para organizar la traducción y contribuir a un trabajo organizado
 
-Estructura
-==========
-La estructura será la del libro, 9 capítulos separados en instancias de 5 fichas cada una.
-/gamertheory
-	/AgonyOnTheCave
-		  1-5
-		  6-10
-		  11-15
-		  16-20
-		  21-25
-etc....
-Dentro de cada instancia habrá 5 archivos en el cual se armarán las traducciones
-		  
+### Estructura
+El libro está estructurado en 9 capítulos, separados en grupos que contienen 5 fichas cada uno.
+Cada ficha estará representada por un archivo que contendra la versión original y en el mismo archivo estará la traducción.
+
+### Herramientas sugeridas
+
+### 
