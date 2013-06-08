@@ -1,0 +1,1 @@
+>Paolo Virno, "The Ambivalence of Disenchantment" , in Michael Hardt and Paolo Virno, eds., Radical Thought in Italy, (Minneapolis: University of Minnesota Press, 1996), pp. 17&endash;18. See also the special issue on Paolo Virno, Grey Room 21 (Fall 2005) 

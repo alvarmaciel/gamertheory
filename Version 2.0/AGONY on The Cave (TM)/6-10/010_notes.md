@@ -1,0 +1,1 @@
+Slavoj Žižek The Fragile Absolute, (London: Verso, 2000), p. 77. I have sworn off the strong brew of a psychoanalytic reading of gamespace here, even using the, Miller Lite version, but for intimations of such a reading, see Andrejevic, as noted above.

@@ -1,0 +1,3 @@
+>Raoul Vaneigem, The Revolution of Everyday Life, (London: Rebel Press, 2001), p. 264. 'Subversion' here translates 'detournément'. Elsewhere Vaneigem writes: "If cybernetics was taken from its masters, it might be able to free human groups from labor and from social alienation. This was precisely the project of Charles Fourier in an age when utopia was still possible." (p. 84) 
+
+>Guy Debord, Society of the Spectacle and Other Films, (London: Rebel Press, 1992). Debord was also, later in life, the creator of the Game of War. See Le Jeu de la Guerre : Relevé des Positions Successives de Toutes les Forces au Cours d'une Partie, (Paris: Gallimard, 2006). 
