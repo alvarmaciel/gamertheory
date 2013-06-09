@@ -1,0 +1,1 @@
+> Richard Neville, Play Power: Exploring the International Underground (New York: Random House, 1970), p. 278. The beautiful freaks, heading toward the suburbs and real jobs, left behind the New Games Movement. See Bernard DeKoven, The Well-Played Game: A Player’s Philosophy (New York: Anchor Press, 1978).
