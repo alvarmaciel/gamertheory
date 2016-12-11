@@ -1,8 +1,8 @@
 ## gamertheory
 
-Este es un proyecto de traducción colaborativa del libro de Gamer Theory V2.0 de [McKenzie Wark](http://www.futureofthebook.org/gamertheory/ "Página del libro")
+Este repositorio es para la traducción del libro de Gamer Theory V2.0 de [McKenzie Wark](http://www.futureofthebook.org/gamertheory/ "Página del libro")
 
-Este documento es para organizar la traducción y contribuir a un trabajo organizado.
+[como colaborar](CONTRIBUTING.md)
 
 ### Estructura
 El libro está estructurado en 9 capítulos, separados en grupos que contienen 5 fichas cada uno.
